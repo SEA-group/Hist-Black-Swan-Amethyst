@@ -1,0 +1,465 @@
+<BSC018_Black_Swan_1940_MidFront_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidFront_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_BD_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.708039 0.557797 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_rank	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 -0.000818 0.000000	</row1>
+					<row2>	0.000000 0.000818 1.000000 0.000000	</row2>
+					<row3>	-0.000037 1.848948 0.236606 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_courtesy	</identifier>
+				<transform>
+					<row0>	0.997545 -0.069948 0.003408 0.000000	</row0>
+					<row1>	0.069948 0.992815 -0.097088 0.000000	</row1>
+					<row2>	0.003408 0.097088 0.995270 0.000000	</row2>
+					<row3>	0.167408 1.575271 0.299928 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_house	</identifier>
+				<transform>
+					<row0>	0.997545 0.069948 -0.003408 0.000000	</row0>
+					<row1>	-0.069948 0.992815 -0.097088 0.000000	</row1>
+					<row2>	-0.003408 0.097088 0.995270 0.000000	</row2>
+					<row3>	-0.167307 1.575271 0.299928 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_1	</identifier>
+				<transform>
+					<row0>	0.996724 -0.080669 0.005768 0.000000	</row0>
+					<row1>	0.080669 0.986567 -0.142052 0.000000	</row1>
+					<row2>	0.005768 0.142052 0.989842 0.000000	</row2>
+					<row3>	0.226900 1.329985 0.333004 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_2	</identifier>
+				<transform>
+					<row0>	0.996724 0.080669 -0.005768 0.000000	</row0>
+					<row1>	-0.080669 0.986567 -0.142052 0.000000	</row1>
+					<row2>	-0.005768 0.142052 0.989842 0.000000	</row2>
+					<row3>	-0.227009 1.329986 0.333067 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_3	</identifier>
+				<transform>
+					<row0>	0.999984 0.005712 -0.000327 0.000000	</row0>
+					<row1>	-0.005712 0.993459 -0.114048 0.000000	</row1>
+					<row2>	-0.000327 0.114048 0.993475 0.000000	</row2>
+					<row3>	0.116631 1.329156 0.330329 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_4	</identifier>
+				<transform>
+					<row0>	0.999984 -0.005712 0.000327 0.000000	</row0>
+					<row1>	0.005712 0.993459 -0.114048 0.000000	</row1>
+					<row2>	0.000327 0.114048 0.993475 0.000000	</row2>
+					<row3>	-0.116740 1.329164 0.330391 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTC1384	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.474471 0.783440 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0554	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.092075 0.272576 0.605430 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0549	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.420237 0.319593 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0559	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000000 1.549209 0.298132 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0558	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.933485 0.376549 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0560	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.507839 0.608587 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0550	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.003462 0.588943 0.707264 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0565	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.332627 0.617282 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM520_Sailng_Dinghy_14ft	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999944 -0.010539 0.000000	</row1>
+					<row2>	0.000000 0.010539 0.999944 0.000000	</row2>
+					<row3>	0.292288 0.265121 0.200710 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0557	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.018527 0.274057 0.239487 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0563	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.032753 0.654668 0.754730 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0564	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.038212 0.663371 0.841596 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0552	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.374174 0.190543 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0555	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.588387 0.547326 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0561	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.005237 0.558629 0.637764 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0553	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.422064 0.421373 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTC1382	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.032146 0.282472 0.951896 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0562	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.559293 0.629555 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM056_Ships_bell	</identifier>
+				<transform>
+					<row0>	-0.543223 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.543223 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -0.543223 0.000000	</row2>
+					<row3>	-0.123472 0.392204 0.435474 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM854_Running_Lights_R	</identifier>
+				<transform>
+					<row0>	0.364242 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.364242 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.364242 0.000000	</row2>
+					<row3>	0.140784 0.602657 0.610901 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTC1380	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.064862 0.291339 0.761536 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0551	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.366144 0.267131 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM099_Compass_Binnacle	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.616442 0.869291 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0548	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.420237 0.319593 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM018_Wood_Box_1	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	0.000000 0.435435 1.030601 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM030_Swab_Rack_2	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	-0.039631 0.268978 0.455935 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM080_Anchor	</identifier>
+				<transform>
+					<row0>	-0.487593 0.017376 0.000106 0.000000	</row0>
+					<row1>	0.017344 0.486854 -0.026866 0.000000	</row1>
+					<row2>	-0.001062 -0.026845 -0.487163 0.000000	</row2>
+					<row3>	0.299581 0.271051 -0.041147 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BTC0556	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.031560 0.414401 0.278345 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTC1379	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.002179 0.536180 0.490791 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM615_Director_Station	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.032264 0.644697 0.914162 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM677_Insulator	</identifier>
+				<transform>
+					<row0>	0.605436 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.605436 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.605436 0.000000	</row2>
+					<row3>	-0.017248 0.495374 0.382301 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM613_Switch_Panel	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.053046 0.662651 0.914249 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTC1381	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.030236 0.350982 0.954143 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTC1383	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.362151 1.182283 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM855_Running_Lights_L	</identifier>
+				<transform>
+					<row0>	0.364000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.364000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.364000 0.000000	</row2>
+					<row3>	-0.140745 0.602657 0.610901 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM602_Pelorus	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.608727 0.808779 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM624_Speaker	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.638936 0.942293 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM528_Dinghy_16ft	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999944 -0.010539 0.000000	</row1>
+					<row2>	0.000000 0.010539 0.999944 0.000000	</row2>
+					<row3>	-0.292288 0.266309 0.200490 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.496175 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Smoke_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.708969 -0.008370 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_NoseWave_Speed	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+</BSC018_Black_Swan_1940_MidFront_ports.visual>

@@ -1,0 +1,83 @@
+<BGA002_2_pdr_MkVII_Quad.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Turret	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFire1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	-0.014963 0.148587 0.069186 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.014963 0.148587 0.069186 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.014963 0.128794 0.103982 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	-0.014963 0.128794 0.103982 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFireEffect	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.000000 0.142141 0.085569 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Turret	</node>
+		<geometry>
+			<vertices>	TurretShape.vertices	</vertices>
+			<primitive>	TurretShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<mfm>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/gun/BGA008_2_pdr_MkVIII_8barrel.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.096032 0.000000 -0.120959	</min>
+		<max>	0.096032 0.173760 0.106408	</max>
+	</boundingBox>
+</BGA002_2_pdr_MkVII_Quad.visual>

@@ -1,0 +1,17 @@
+<BD010_DCT_MKII.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/director/BD010_DCT_MKII_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/director/BD010_DCT_MKII_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/director/BD010_DCT_MKII_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/director/default_ao.dds	</Texture>
+	</property>
+</BD010_DCT_MKII.mfm>

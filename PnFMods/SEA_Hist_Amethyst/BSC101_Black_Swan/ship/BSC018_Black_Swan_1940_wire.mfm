@@ -1,0 +1,14 @@
+<BSC018_Black_Swan_1940_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/ship/BSC018_Black_Swan_1940_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/ship/BSC018_Black_Swan_1940_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/ship/BSC018_Black_Swan_1940_mg.dds	</Texture>
+	</property>
+</BSC018_Black_Swan_1940_wire.mfm>

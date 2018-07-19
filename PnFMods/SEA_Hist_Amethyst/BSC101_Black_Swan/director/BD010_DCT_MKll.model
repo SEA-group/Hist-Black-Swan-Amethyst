@@ -1,0 +1,9 @@
+<BD010_DCT_MKll.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/director/BD010_DCT_MKll_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/director/BD010_DCT_MKll	</nodefullVisual>
+	<extent>	3.0000	</extent>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BD010_DCT_MKll.model>
