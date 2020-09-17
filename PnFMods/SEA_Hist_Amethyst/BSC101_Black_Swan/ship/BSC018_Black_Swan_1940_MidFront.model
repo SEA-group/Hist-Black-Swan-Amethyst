@@ -1,6 +1,6 @@
 <BSC018_Black_Swan_1940_MidFront.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/ship/BSC018_Black_Swan_1940_MidFront_lod1	</parent>
+	<parent>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/ship/lods/BSC018_Black_Swan_1940_MidFront_lod1	</parent>
 	<extent>	6.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

@@ -1,9 +1,9 @@
 <BSC018_Black_Swan_1940_Bow_lod2.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/ship/BSC018_Black_Swan_1940_Bow_lod3	</parent>
+	<parent>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/ship/lods/BSC018_Black_Swan_1940_Bow_lod3	</parent>
 	<extent>	30.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/ship/BSC018_Black_Swan_1940_Bow_lod2	</nodefullVisual>
+	<nodefullVisual>	PnFMods/SEA_Hist_Amethyst/BSC101_Black_Swan/ship/lods/BSC018_Black_Swan_1940_Bow_lod2	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </BSC018_Black_Swan_1940_Bow_lod2.model>
